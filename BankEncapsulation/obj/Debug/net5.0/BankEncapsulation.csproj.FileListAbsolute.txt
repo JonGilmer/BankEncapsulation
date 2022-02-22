@@ -1,0 +1,15 @@
+/Users/JonathanGilmer/Desktop/Repos/BankEncapsulation/BankEncapsulation/bin/Debug/net5.0/BankEncapsulation.deps.json
+/Users/JonathanGilmer/Desktop/Repos/BankEncapsulation/BankEncapsulation/bin/Debug/net5.0/BankEncapsulation.runtimeconfig.json
+/Users/JonathanGilmer/Desktop/Repos/BankEncapsulation/BankEncapsulation/bin/Debug/net5.0/BankEncapsulation.runtimeconfig.dev.json
+/Users/JonathanGilmer/Desktop/Repos/BankEncapsulation/BankEncapsulation/bin/Debug/net5.0/BankEncapsulation.dll
+/Users/JonathanGilmer/Desktop/Repos/BankEncapsulation/BankEncapsulation/bin/Debug/net5.0/ref/BankEncapsulation.dll
+/Users/JonathanGilmer/Desktop/Repos/BankEncapsulation/BankEncapsulation/bin/Debug/net5.0/BankEncapsulation.pdb
+/Users/JonathanGilmer/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net5.0/BankEncapsulation.csproj.AssemblyReference.cache
+/Users/JonathanGilmer/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net5.0/BankEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JonathanGilmer/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net5.0/BankEncapsulation.AssemblyInfoInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net5.0/BankEncapsulation.AssemblyInfo.cs
+/Users/JonathanGilmer/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net5.0/BankEncapsulation.csproj.CoreCompileInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net5.0/BankEncapsulation.dll
+/Users/JonathanGilmer/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net5.0/ref/BankEncapsulation.dll
+/Users/JonathanGilmer/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net5.0/BankEncapsulation.pdb
+/Users/JonathanGilmer/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net5.0/BankEncapsulation.genruntimeconfig.cache
